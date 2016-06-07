@@ -6,7 +6,11 @@
 
 # Ignore bundler config.
 /.bundle
+<<<<<<< HEAD
+.idea
+=======
 .idea/workspace.xml
+>>>>>>> static-pages
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
