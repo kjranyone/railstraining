@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4b88bb3-7747-4087-9920-b66e6a3d8d73" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-    </list>
+    <list default="true" id="a4b88bb3-7747-4087-9920-b66e6a3d8d73" name="Default" comment="" />
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -709,7 +707,7 @@
       <updated>1465202336284</updated>
       <workItem from="1465202337522" duration="806000" />
       <workItem from="1465203995112" duration="591000" />
-      <workItem from="1465204623609" duration="6022000" />
+      <workItem from="1465204623609" duration="6065000" />
     </task>
     <servers />
   </component>
@@ -746,7 +744,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7419000" />
+    <option name="totallyTimeSpent" value="7462000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
